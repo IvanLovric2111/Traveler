@@ -19,8 +19,8 @@ This project was built using a modern web development stack:
 
 ## Contributors
 
-Ivan Lovrić, David Damjanović
+* David Damjanović
+* Ivan Lovrić
 
-## Acknowledgements
-
-Traveler was developed at the University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture as class project in "Advanced Web Technologies" and "Human-Computer Interaction (HCI)" courses.
+---
+*This project was developed as a seminar paper at the Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture (FESB), University of Split.*
