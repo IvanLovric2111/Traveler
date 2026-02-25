@@ -24,4 +24,4 @@ This project was built using a modern web development stack:
 * Ivan Lovrić
 
 ---
-*This project was developed as a seminar paper at the Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture (FESB), University of Split.*
+*This project was developed as a seminar project at the Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture (FESB), University of Split.*
