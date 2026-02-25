@@ -1,5 +1,6 @@
 # Traveler
 
+## Overview
 A modern travel exploration web page that allows users to discover destinations, read travel stories, and share experiences.
 
 ## Technologies Used
