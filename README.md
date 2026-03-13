@@ -1,22 +1,36 @@
 # Traveler
 
 ## Overview
-A modern travel exploration web page that allows users to discover destinations, read travel stories, and share experiences.
+**Traveler** is a platform designed for discovery and storytelling. It allows users to explore diverse destinations through dynamic post pages and share their own authentic travel experiences within a community-driven ecosystem. The application is optimized for a seamless experience across all devices, from mobile to desktop.
 
-## Technologies Used
+## Tech Stack
 
 This project was built using a modern web development stack:
 
-* **Framework:** [Next.js](https://nextjs.org/) (App Router)
+* **Framework:** [Next.js](https://nextjs.org/)
 * **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 * **Language:** [TypeScript](https://www.typescriptlang.org/)
-* **Deployment:** (e.g., Vercel)
+* **Deployment:** [Vercel](https://vercel.com/)
 
-## Features
+## Getting Started
 
-* **Dynamic Destinations:** Explore various travel spots with dedicated post pages.
-* **User Experiences:** A dedicated section for community-driven travel stories.
-* **Responsive Design:** Fully optimized for mobile, tablet, and desktop views.
+### Prerequisites
+
+* [Node.js](https://nodejs.org/)
+
+### Installation & Setup
+
+*  Navigate to the project directory and install dependencies running the command:
+    
+    ```bash
+    npm install
+    ```
+    
+*  Run the development server:
+
+    ```bash
+    npm run dev
+    ```
 
 ## Contributors
 
